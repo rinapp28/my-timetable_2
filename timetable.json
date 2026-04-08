@@ -1,0 +1,476 @@
+ {
+  "zenki":[
+  [
+    [
+      {
+        "code": "42100017Qq",
+        "type": "必修",
+        "name": "データ構造とアルゴリズム（情シ）",
+        "room": "W203",
+        "teacher": "吉村　元秀",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100017Qq"
+      }
+    ],
+    [
+      {
+        "code": "42120028Rg",
+        "type": "必修",
+        "name": "プログラミング応用（情セ）",
+        "room": "W102",
+        "teacher": "喜多　義弘",
+        "term": "半期",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120028Rg"
+      }
+    ],
+    [
+      {
+        "code": "42100008Rg",
+        "type": "必修",
+        "name": "オペレーティングシステム演習（情セ）",
+        "room": "S101",
+        "teacher": "岡田　雅之",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100008Rg"
+      }
+    ],
+    [
+      {
+        "code": "42100017Qq",
+        "type": "必修",
+        "name": "データ構造とアルゴリズム（情シ）",
+        "room": "W203",
+        "teacher": "吉村　元秀",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100017Qq"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "code": "42120024Rg",
+        "type": "再履修",
+        "name": "プログラミング入門（情セ）",
+        "room": "W102",
+        "teacher": "喜多　義弘",
+        "term": "半期",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120024Rg"
+      }
+    ],
+    [
+      {
+        "code": "42100035Ri",
+        "type": "再履修",
+        "name": "線形代数（情セ０２）",
+        "room": "W102",
+        "teacher": "齋藤　正也",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100035Ri"
+      },
+      {
+        "code": "42120022Rg",
+        "type": "必修",
+        "name": "オートマトンと言語理論（情セ）",
+        "room": "W102",
+        "teacher": "福光　正幸",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120022Rg"
+      }
+    ],
+    [
+      {
+        "code": "42100008Rg",
+        "type": "必修",
+        "name": "オペレーティングシステム演習（情セ）",
+        "room": "S101",
+        "teacher": "岡田　雅之",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100008Rg"
+      }
+    ],
+    [
+      {
+        "code": "42120025Rg",
+        "type": "再履修",
+        "name": "プログラミング入門演習（情セ）",
+        "room": "W102",
+        "teacher": "喜多　義弘",
+        "term": "半期",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120025Rg"
+      }
+    ],
+    [
+      {
+        "code": "42100035Ri",
+        "type": "再履修",
+        "name": "線形代数（情セ０２）",
+        "room": "W102",
+        "teacher": "齋藤　正也",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100035Ri"
+      },
+      {
+        "code": "42120022Rg",
+        "type": "必修",
+        "name": "オートマトンと言語理論（情セ）",
+        "room": "W102",
+        "teacher": "福光　正幸",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120022Rg"
+      }
+    ]
+  ],
+  [
+    null,
+    [
+      {
+        "code": "42100013Qp",
+        "type": "必修",
+        "name": "情報セキュリティ概論（情報システム学部）",
+        "room": "大講義室",
+        "teacher": "小林　信博 他",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100013Qp"
+      },
+      {
+        "code": "42100014Rg",
+        "type": "必修",
+        "name": "テクニカルライティング（情セ）",
+        "room": "S101",
+        "teacher": "木下　修司",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100014Rg"
+      }
+    ],
+    null,
+    null,
+    [
+      {
+        "code": "42100013Qp",
+        "type": "必修",
+        "name": "情報セキュリティ概論（情報システム学部）",
+        "room": "大講室室",
+        "teacher": "小林　信博 他",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100013Qp"
+      },
+      {
+        "code": "42100014Rg",
+        "type": "必修",
+        "name": "テクニカルライティング（情セ）",
+        "room": "S101",
+        "teacher": "木下　修司",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100014Rg"
+      }
+    ]
+  ],
+  [
+    null,
+    [
+      {
+        "code": "42100038Qp",
+        "type": "必修",
+        "name": "情報社会と倫理（情報システム学部）",
+        "room": "M103",
+        "teacher": "上繁　義史",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100038Qp"
+      },
+      {
+        "code": "42120051Rg",
+        "type": "必修",
+        "name": "セキュリティリスクマネジメント（情セ）",
+        "room": "W102",
+        "teacher": "上繁　義史",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120051Rg"
+      }
+    ],
+    null,
+    null,
+    [
+      {
+        "code": "42100038Qp",
+        "type": "必修",
+        "name": "情報社会と倫理（情報システム学部）",
+        "room": "M103",
+        "teacher": "上繁　義史",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100038Qp"
+      },
+      {
+        "code": "42120051Rg",
+        "type": "必修",
+        "name": "セキュリティリスクマネジメント（情セ）",
+        "room": "W102",
+        "teacher": "上繁　義史",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120051Rg"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "code": "42100006Qp",
+        "type": "必修",
+        "name": "コンピュータアーキテクチャ（情報システム学部）",
+        "room": "M103",
+        "teacher": "有田　大作",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100006Qp"
+      }
+    ],
+    [
+      {
+        "code": "42100003Rg",
+        "type": "必修",
+        "name": "統計演習（情セ）",
+        "room": "W102",
+        "teacher": "齋藤　正也",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100003Rg"
+      },
+      {
+        "code": "42100007Qp",
+        "type": "必修",
+        "name": "オペレーティングシステム（情報システム学部）",
+        "room": "M103",
+        "teacher": "有田　大作",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100007Qp"
+      }
+    ],
+    null,
+    [
+      {
+        "code": "42100006Qp",
+        "type": "再履修",
+        "name": "コンピュータアーキテクチャ（情報システム学部）",
+        "room": "M103",
+        "teacher": "有田　大作",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100006Qp"
+      }
+    ],
+    [
+      {
+        "code": "42100003Rg",
+        "type": "必修",
+        "name": "統計演習（情セ）",
+        "room": "W102",
+        "teacher": "齋藤　正也",
+        "term": "２Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100003Rg"
+      },
+      {
+        "code": "42100007Qp",
+        "type": "必修",
+        "name": "オペレーティングシステム（情報システム学部）",
+        "room": "M103",
+        "teacher": "有田　大作",
+        "term": "１Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100007Qp"
+      }
+    ]
+  ]
+],
+"kouki":[
+  [
+    null,
+    [
+      {
+        "code": "40000078Rj",
+        "type": "必修",
+        "name": "リーディングⅠ（情セ０３）",
+        "room": "M102",
+        "teacher": "大隈　重之",
+        "term": "３Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=40000078Rj"
+      },
+      {
+        "code": "40000079Rj",
+        "type": "必修",
+        "name": "リーディングⅡ（情セ０３）",
+        "room": "M102",
+        "teacher": "大隈　重之",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=40000079Rj"
+      }
+    ],
+    [
+      {
+        "code": "42120021Rg",
+        "type": "再履修",
+        "name": "コンピュータアーキテクチャ演習（情セ）",
+        "room": "W102",
+        "teacher": "岡田　雅之",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120021Rg"
+      }
+    ],
+    [
+      {
+        "code": "42120046Rg",
+        "type": "必修",
+        "name": "ネットワーク・サーバー設計構築演習（情セ）",
+        "room": "S101",
+        "teacher": "岡田　雅之",
+        "term": "半期",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120046Rg"
+      }
+    ],
+    [
+      {
+        "code": "40000078Rj",
+        "type": "必修",
+        "name": "リーディングⅠ（情セ０３）",
+        "room": "M102",
+        "teacher": "大隈　重之",
+        "term": "３Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=40000078Rj"
+      },
+      {
+        "code": "40000079Rj",
+        "type": "必修",
+        "name": "リーディングⅡ（情セ０３）",
+        "room": "M102",
+        "teacher": "大隈　重之",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=40000079Rj"
+      }
+    ]
+  ],
+  [
+    null,
+    [
+      {
+        "code": "40000062Ri",
+        "type": "再履修",
+        "name": "英語Ⅳ（情セ０２）",
+        "room": "W101",
+        "teacher": "寺田　よしみ",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=40000062Ri"
+      },
+      {
+        "code": "42100015Qp",
+        "type": "必修",
+        "name": "ソフトウェア工学（情報システム学部）",
+        "room": "大講義室",
+        "teacher": "喜多　義弘",
+        "term": "３Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100015Qp"
+      }
+    ],
+    [
+      {
+        "code": "42120021Rg",
+        "type": "再履修",
+        "name": "コンピュータアーキテクチャ演習（情セ）",
+        "room": "W102",
+        "teacher": "岡田　雅之",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120021Rg"
+      }
+    ],
+    null,
+    [
+      {
+        "code": "40000062Ri",
+        "type": "再履修",
+        "name": "英語Ⅳ（情セ０２）",
+        "room": "W101",
+        "teacher": "寺田　よしみ",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=40000062Ri"
+      },
+      {
+        "code": "42100015Qp",
+        "type": "必修",
+        "name": "ソフトウェア工学（情報システム学部）",
+        "room": "大講義室",
+        "teacher": "喜多　義弘",
+        "term": "３Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42100015Qp"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "code": "42120002Rg",
+        "type": "必修",
+        "name": "暗号技術（情セ）",
+        "room": "S101",
+        "teacher": "一色　寿幸",
+        "term": "３Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120002Rg"
+      }
+    ],
+    [
+      {
+        "code": "42120001Rg",
+        "type": "必修",
+        "name": "認証とアクセス制御（情セ）",
+        "room": "S101",
+        "teacher": "島　成佳",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120001Rg"
+      }
+    ],
+    null,
+    [
+      {
+        "code": "42120002Rg",
+        "type": "必修",
+        "name": "暗号技術（情セ）",
+        "room": "S101",
+        "teacher": "一色　寿幸",
+        "term": "３Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120002Rg"
+      }
+    ],
+    [
+      {
+        "code": "42120001Rg",
+        "type": "必修",
+        "name": "認証とアクセス制御（情セ）",
+        "room": "S101",
+        "teacher": "島　成佳",
+        "term": "４Ｑ",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120001Rg"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "code": "42120030Rg",
+        "type": "必修",
+        "name": "開発実践演習（情セ）",
+        "room": "W203",
+        "teacher": "喜多　義弘",
+        "term": "半期",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120030Rg"
+      }
+    ],
+    null,
+    null,
+    null,
+    [
+      {
+        "code": "42120042Rg",
+        "type": "選択",
+        "name": "Ｗｅｂ構築演習（情セ）",
+        "room": "S101",
+        "teacher": "島　成佳",
+        "term": "半期",
+        "url": "https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=42120042Rg"
+      }
+    ]
+  ]
+]
+ }

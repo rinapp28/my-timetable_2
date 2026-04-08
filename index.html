@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>2年　時間割</title>
+
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>2年　時間割</h1>
+
+  <label for="termSelect">期間:</label>
+  <select id="termSelect">
+    <option value="1Q">1Q</option>
+    <option value="2Q">2Q</option>
+    <option value="3Q">3Q</option>
+    <option value="4Q">4Q</option>
+  </select>
+      <table id="timetable">
+        <thead>
+          <tr>
+            <th>時限 / 曜日</th>
+            <th>月</th>
+            <th>火</th>
+            <th>水</th>
+            <th>木</th>
+            <th>金</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="period">1限<br>9:00〜10:30</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th class="period">2限<br>10:40〜12:10</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th class="period">3限<br>13:00〜14:30</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+           <th class="period">4限<br>14:40〜16:10</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th class="period">5限<br>16:20〜17:50</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+
+      <!-- タイトル -->
+      <h2 id="modal-title"></h2>
+
+      <!-- メモ -->
+      <textarea id="modal-memo" placeholder="メモを書く"></textarea>
+
+      <!-- ボタン -->
+      <div class="modal-footer">
+        <button id="close-btn">閉じる</button>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="pdf-section">
+    <img src="calendar.png">
+  </div>
+
+<script src="timetable_1q.js"></script> 
+</body>
+
+
+</html>

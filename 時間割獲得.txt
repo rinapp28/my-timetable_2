@@ -1,0 +1,54 @@
+時間割獲得
+
+
+const rows = document.querySelectorAll(".camjnext-div-table-row");
+const timetable = [];
+
+rows.forEach((row) => {
+  const cells = row.querySelectorAll(".wrsytbluJikanwariData");
+  const rowData = [];
+
+  cells.forEach((cell) => {
+    const lessons = cell.querySelectorAll(".wrsytbluJikanwariRisyuData");
+
+    if (lessons.length > 0) {
+      const cellData = [];
+
+      lessons.forEach(lesson => {
+        const t = lesson.innerText
+          .split("\n")
+          .map(s => s.trim())
+          .filter(Boolean);
+
+        const data = {
+          code: t[0] || "",
+          type: t.find(v => v.includes("必修") || v.includes("選択") || v.includes("再履修")) || "必修",
+          name: t.find(v => v.includes("（")) || "",
+          room: t.find(v => /^[A-Z]\d+/.test(v)) || "",
+          teacher: t.find(v => v.includes("　")) || "",
+          term: t.find(v => v.includes("Ｑ")) || "半期",
+          url: `https://cx.sun.ac.jp/campusweb/slbssbdr.do?value(risyunen)=2026&value(semekikn)=1&value(kougicd)=${t[0]}`
+        };
+
+        cellData.push(data);
+      });
+
+      rowData.push(cellData);
+    } else {
+      rowData.push(null);
+    }
+  });
+
+  // 行の末尾が null なら削除
+  while (rowData.length && rowData[rowData.length - 1] === null) {
+    rowData.pop();
+  }
+
+  // 行全体が null だけなら追加しない
+  const hasValidCell = rowData.some(cell => cell !== null);
+  if (hasValidCell) {
+    timetable.push(rowData);
+  }
+});
+
+console.log(JSON.stringify(timetable, null, 2));
