@@ -179,7 +179,7 @@ function renderTimetable(q = "1Q") {
           // 内側 div 角丸背景
           td.innerHTML = `
             <div class="lesson">
-                <div class="lesson-room">${lesson.room}</div>
+                <div class="lesson-room">${lesson.room || "大講義室"}</div>
                 <div class="lesson-type ${lesson.type}">${lesson.type}</div>
               <span class="lesson-name">${lesson.name}</span><br>
               <span class="lesson-teacher">${lesson.teacher}</span><br>
